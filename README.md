@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp;
 
 
-#### practice
+#### study
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Jpa-004088?style=for-the-badge&logo=jpa&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/QueryDSL-004088?style=for-the-badge&logo=querydsl&logoColor=white"> &nbsp;
