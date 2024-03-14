@@ -1,5 +1,5 @@
 ### 🐬 Welcome!
-#### :computer: Beckand Developer
+#### :computer: Backand Developer
   
 ### Skills
 #### main 
