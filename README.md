@@ -1,6 +1,5 @@
 ### 🐬 Welcome!
 #### :computer: Backend Developer
-#### :globe_with_meridians: [hwiseo.com](http://hwiseo.com)
   
 ### Skills
 #### Language 
